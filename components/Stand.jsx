@@ -21,7 +21,7 @@ function Stand() {
           Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet Lorem ipsum
           dolor sit ametLorem ipsum dolor sit amet
         </p>
-        <h2 className="font-bold text-lg underline decoration-yellow-200 decoration-4 m-16">
+        <h2 className="font-bold text-lg underline decoration-red-200 decoration-4 m-16">
           LEARN MORE
         </h2>
       </div>

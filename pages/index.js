@@ -5,6 +5,8 @@ import Transform from '../components/Transform'
 import Stand from '../components/Stand'
 import Graphic from '../components/Graphic'
 import Client from '../components/Client'
+import SunnySideImg from '../components/SunnySideImg'
+import FooterSunny from '../components/FooterSunny'
 
 export default function Home() {
   return (
@@ -20,6 +22,8 @@ export default function Home() {
       <Stand />
       <Graphic />
       <Client />
+      <SunnySideImg />
+      <FooterSunny />
     </div>
   )
 }
