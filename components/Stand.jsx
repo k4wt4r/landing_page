@@ -5,12 +5,12 @@ import imagestandout from "../public/images/imagestandout.jpg";
 function Stand() {
   return (
     <div className=" w-full flex flex-row ">
-      <div className="w-1/2 aspect-square bg-bittersweet">
+      <div className="w-1/2 aspect-square relative">
         <Image
           src={imagestandout}
           alt="image stand out"
-          height={1020}
-          width={1020}
+          objectFit="cover"
+          layout="fill"
         />
       </div>
       <div className=" flex flex-col justify-center items-center w-1/2 aspect-square">

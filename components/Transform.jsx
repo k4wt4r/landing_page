@@ -18,13 +18,12 @@ function Transform() {
           LEARN MORE
         </h2>
       </div>
-      <div className="w-1/2 aspect-square">
+      <div className="w-1/2 aspect-square relative">
         <Image
           src={imagetransform}
           alt="imagetransform"
-          width={1000}
-          height={1000}
           objectFit="cover"
+          layout="fill"
         />
       </div>
     </div>

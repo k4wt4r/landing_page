@@ -11,7 +11,6 @@ function Landing() {
         layout="fill"
         objectFit="cover"
       />
-      <p>test</p>
     </div>
   );
 }
