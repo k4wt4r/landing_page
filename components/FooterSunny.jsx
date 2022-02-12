@@ -9,9 +9,11 @@ function FooterSunny() {
   return (
     <section className="w-full bg-green-300">
       <div className="flex justify-center flex-col items-center p-32">
-        <h1 className="font-bold text-3xl text-green-900 mb-12">sunnyside</h1>
+        <h1 className="font-bold text-3xl text-green-990  opacity-50 mb-12">
+          sunnyside
+        </h1>
         <div className="w-80">
-          <div className="flex justify-between text-green-900">
+          <div className="flex justify-between text-green-900 opacity-75">
             <span>About</span>
             <span>Services</span>
             <span>Projects</span>
